@@ -7,4 +7,4 @@ symlink source destination
 ```
 
 ## License
-See (LICENSE.md)[LICENSE.md]
+See [LICENSE.md](LICENSE.md)
