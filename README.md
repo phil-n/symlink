@@ -7,4 +7,4 @@ symlink source destination
 ```
 
 ## License
-[MIT](https://opensource.org/licenses/MIT)
+See (LICENSE.md)[LICENSE.md]
